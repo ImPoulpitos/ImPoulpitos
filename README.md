@@ -1,24 +1,17 @@
 # Hi there 👋
 
-I'm **Poulpitos**, a computer science student who loves working behind the scenes 😎
-<!--
-**ImPoulpitos/ImPoulpitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Poulpitos**, a computer science student who loves working behind the scenes 😎\
+Since 2020, I create back-end apps and many other tech or tools.
 
-Here are some ideas to get you started:
+I love exploring and testing daily-used applications to understand how they works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects that I'm working on 📂
 
-## Projects I'm working on 📂
+### [**Sea of Thieves France**](https://sotfr.net)
+In **December 2021**, I joined the frencn Sea of Thieves community as a volunteer to provide tools and applications for our french players!\
+With more than **95k members**, it is the largest Sea of Thieves affiliated community. *(We even have our own in-game ship set!)*\
 
-
+![Join us now](https://discord.com/sotfr)
 
 ## My loved ones ❤
 
@@ -33,7 +26,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/bash-black?style=for-the-badge&logoColor=white&labelColor=E0691C)\
 ![Static Badge](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2DE350&link=https%3A%2F%2Fwww.mongodb.com%2F)
 ![Static Badge](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=white&labelColor=DF4141&link=https%3A%2F%2Fredis.io%2F)
-
 
 #### DevOps tools
 ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=gray&link=https%3A%2F%2Fgithub.com%2Fhome)
