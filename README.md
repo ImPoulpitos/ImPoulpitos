@@ -1,15 +1,16 @@
 # Hi there 👋
 
-I'm **Poulpitos**, a computer science student who loves working behind the scenes 😎\
-Since 2020, I create back-end apps and many other tech or tools.
+I'm **Poulpitos**, **Back-End & DevOps Engineer** since 2022.
+
+My journey started in 2020 when I was creating discord bots and small side projects.
+Today, my interests are more in the backstages... working on APIs, owning a dedicated and self-hosted infrastructure, etc...
 
 I love exploring and testing daily-used applications to understand how they works.
 
 ## Projects that I'm working on 📂
 
 ### [**Sea of Thieves France**](https://sotfr.net)
-In **December 2021**, I joined the frencn Sea of Thieves community as a volunteer to provide tools and applications for our french players!\
-With more than **95k members**, it is the largest Sea of Thieves affiliated community. *(We even have our own in-game ship set!)*\
+In **December 2021**, I joined the frencn Sea of Thieves community as a volunteer to provide tools and applications for our french playerbase! With more than **95k members**, it is the largest Sea of Thieves affiliated community. *(We even have our own in-game ship set!)*\
 
 ![Join us now](https://discord.com/sotfr)
 
