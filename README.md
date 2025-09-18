@@ -10,7 +10,7 @@ I love exploring and testing daily-used applications to understand how they work
 ## Projects that I'm working on 📂
 
 ### [**Sea of Thieves France**](https://sotfr.net)
-In **December 2021**, I joined the frencn Sea of Thieves community as a volunteer to provide tools and applications for our french playerbase! With more than **95k members**, it is the largest Sea of Thieves affiliated community. *(We even have our own in-game ship set!)*\
+In **December 2021**, I joined the Sea of Thieves France's community as a volunteer to provide tools and applications for our french playerbase! With more than **95k members**, it is the largest Sea of Thieves affiliated community. *(We even have our own in-game ship set!)*\
 
 ![Join us now](https://discord.com/sotfr)
 
